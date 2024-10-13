@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: helvetica;
+}
+
+#top-frame{
+    border: 1px solid black;
+    margin-bottom: 20px;
+}
+
+main{
+    display: block;
+    border: 2px solid black;
+    margin-top: 20px;
+    padding: 100px;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+body{
+    padding: 20px 300px 20px 300px;
+}
+
+#head{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: rgb(56, 170, 56);
+}
+
+h4{
+    color: #136ce0;
+}
+
